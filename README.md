@@ -2,7 +2,7 @@
 "Reducing Colors On Image" I Used  k-Mean Clustering Algorithm.
 so the some information about k-Mean Clustering Algorithm is this algorithm is an unsupervised learning algorithm that is used to solve the clustering problems in machine learning or data science. 
 
-##what is k-Mean Clustering Algorithm?
+what is k-Mean Clustering Algorithm?
 
 K-Means Clustering is an Unsupervised Learning algorithm is providing the groups of  the unlabeled dataset into different clusters and "K" defines the no. of pre-defined clusters and that they need to be created in the process.
 so, if K=2 is given so there will be two clusters and for K=3 is the given  there will be three clusters
