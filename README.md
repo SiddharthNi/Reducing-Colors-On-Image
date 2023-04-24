@@ -118,15 +118,15 @@ Step8:-we using "Kmean.fit(x) for fiting of kn part in "X" so "X" is the image
        
        output:-array([0, 0, 0, ..., 1, 1, 1])
        
-step9:-kmeans providing the reshape of image and reducing colors on image
+Step9:-kmeans providing the reshape of image and reducing colors on image
 ```bash
         new_X = kmeans.cluster_centers_[kmeans.labels_]
 ```
-step10:-providing reshape of image
+Step10:-providing reshape of image
 ```bash
        image = new_X.reshape(1280, 1229, 3)
 ```
-step11:-showing the reducing colors image
+Step11:-showing the reducing colors image
 ```bash
 imshow(image)
 ```
