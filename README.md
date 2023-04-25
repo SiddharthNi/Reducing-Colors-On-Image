@@ -54,7 +54,7 @@ when you installing jupyter notebook go on homepage of jupyter notebook on right
    
 ## Implementation
 
-So the I make this peoject on jupyter notebook so  implementation steps are given below :-
+So the I make this project on jupyter notebook so  implementation steps are given below :-
 
 step1:-import matplotlib.pyplot as plt this command is used for matploting and ".pyplot" for ploting in python
 ```bash
