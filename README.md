@@ -1,7 +1,7 @@
 
 # Reducing-Colors-On-Image
 
-"Reducing Colors On Image" I Used k-Mean Clustering Algorithm.so the some information about k-Mean Clustering Algorithm is this algorithm is an unsupervised learning algorithm that is used to solve the clustering problems in machine learning or data science.
+"Reducing Colors On Image" I Used k-Mean Clustering Algorithm.so the some information about k-Mean Clustering Algorithm is this algorithm is an unsupervised learning algorithm that is used to solve the clustering problems in machine learning.
 
 ## what is k-Mean Clustering Algorithm?
 
